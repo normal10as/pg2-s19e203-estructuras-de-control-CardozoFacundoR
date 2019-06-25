@@ -1,0 +1,11 @@
+C:\Users\Facu\source\repos\Estructuras_Control_Flujo\Menor\bin\Debug\netcoreapp2.1\Menor.deps.json
+C:\Users\Facu\source\repos\Estructuras_Control_Flujo\Menor\bin\Debug\netcoreapp2.1\Menor.runtimeconfig.json
+C:\Users\Facu\source\repos\Estructuras_Control_Flujo\Menor\bin\Debug\netcoreapp2.1\Menor.runtimeconfig.dev.json
+C:\Users\Facu\source\repos\Estructuras_Control_Flujo\Menor\bin\Debug\netcoreapp2.1\Menor.dll
+C:\Users\Facu\source\repos\Estructuras_Control_Flujo\Menor\bin\Debug\netcoreapp2.1\Menor.pdb
+C:\Users\Facu\source\repos\Estructuras_Control_Flujo\Menor\obj\Debug\netcoreapp2.1\Menor.vbprojAssemblyReference.cache
+C:\Users\Facu\source\repos\Estructuras_Control_Flujo\Menor\obj\Debug\netcoreapp2.1\Menor.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\Estructuras_Control_Flujo\Menor\obj\Debug\netcoreapp2.1\Menor.AssemblyInfoInputs.cache
+C:\Users\Facu\source\repos\Estructuras_Control_Flujo\Menor\obj\Debug\netcoreapp2.1\Menor.AssemblyInfo.vb
+C:\Users\Facu\source\repos\Estructuras_Control_Flujo\Menor\obj\Debug\netcoreapp2.1\Menor.dll
+C:\Users\Facu\source\repos\Estructuras_Control_Flujo\Menor\obj\Debug\netcoreapp2.1\Menor.pdb

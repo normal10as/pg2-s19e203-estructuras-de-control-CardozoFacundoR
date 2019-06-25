@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Comparar", "Comparar\Comparar.vbproj", "{D2730ABE-239C-4286-96A8-1536DC1046DB}"
+EndProject
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Menor", "Menor\Menor.vbproj", "{6253B14E-1034-4A53-AFF1-7DCAF1E79ED3}"
+EndProject
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Tercero", "Tercero\Tercero.vbproj", "{58C1B0CB-766D-420F-91E1-737109713FC7}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Venta", "Venta\Venta.vbproj", "{2C6571B9-CD63-4FEA-BF41-4552B0F3ACB0}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "NombreMes", "NombreMes\NombreMes.vbproj", "{BC5A3F93-123A-4EB5-A95F-BF3913A66151}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Venta2_0", "Venta2.0\Venta2_0.vbproj", "{5FC4537C-A541-4D8D-9755-719FE10670E9}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Angulo", "Angulo\Angulo.vbproj", "{369D6EB8-A1AD-44B4-851E-1934E0E45EF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2730ABE-239C-4286-96A8-1536DC1046DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2730ABE-239C-4286-96A8-1536DC1046DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2730ABE-239C-4286-96A8-1536DC1046DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2730ABE-239C-4286-96A8-1536DC1046DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6253B14E-1034-4A53-AFF1-7DCAF1E79ED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6253B14E-1034-4A53-AFF1-7DCAF1E79ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6253B14E-1034-4A53-AFF1-7DCAF1E79ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6253B14E-1034-4A53-AFF1-7DCAF1E79ED3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58C1B0CB-766D-420F-91E1-737109713FC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58C1B0CB-766D-420F-91E1-737109713FC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58C1B0CB-766D-420F-91E1-737109713FC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58C1B0CB-766D-420F-91E1-737109713FC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C6571B9-CD63-4FEA-BF41-4552B0F3ACB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C6571B9-CD63-4FEA-BF41-4552B0F3ACB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C6571B9-CD63-4FEA-BF41-4552B0F3ACB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C6571B9-CD63-4FEA-BF41-4552B0F3ACB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC5A3F93-123A-4EB5-A95F-BF3913A66151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC5A3F93-123A-4EB5-A95F-BF3913A66151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC5A3F93-123A-4EB5-A95F-BF3913A66151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC5A3F93-123A-4EB5-A95F-BF3913A66151}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FC4537C-A541-4D8D-9755-719FE10670E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FC4537C-A541-4D8D-9755-719FE10670E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FC4537C-A541-4D8D-9755-719FE10670E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FC4537C-A541-4D8D-9755-719FE10670E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{369D6EB8-A1AD-44B4-851E-1934E0E45EF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{369D6EB8-A1AD-44B4-851E-1934E0E45EF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{369D6EB8-A1AD-44B4-851E-1934E0E45EF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{369D6EB8-A1AD-44B4-851E-1934E0E45EF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D1361FC-CC03-4E81-ADFD-3816B94BBC42}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\Facu\source\repos\Estructuras_Control_Flujo\Venta2.0\bin\Debug\netcoreapp2.1\Venta2_0.deps.json
+C:\Users\Facu\source\repos\Estructuras_Control_Flujo\Venta2.0\bin\Debug\netcoreapp2.1\Venta2_0.runtimeconfig.json
+C:\Users\Facu\source\repos\Estructuras_Control_Flujo\Venta2.0\bin\Debug\netcoreapp2.1\Venta2_0.runtimeconfig.dev.json
+C:\Users\Facu\source\repos\Estructuras_Control_Flujo\Venta2.0\bin\Debug\netcoreapp2.1\Venta2_0.dll
+C:\Users\Facu\source\repos\Estructuras_Control_Flujo\Venta2.0\bin\Debug\netcoreapp2.1\Venta2_0.pdb
+C:\Users\Facu\source\repos\Estructuras_Control_Flujo\Venta2.0\obj\Debug\netcoreapp2.1\Venta2_0.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\Estructuras_Control_Flujo\Venta2.0\obj\Debug\netcoreapp2.1\Venta2_0.AssemblyInfoInputs.cache
+C:\Users\Facu\source\repos\Estructuras_Control_Flujo\Venta2.0\obj\Debug\netcoreapp2.1\Venta2_0.AssemblyInfo.vb
+C:\Users\Facu\source\repos\Estructuras_Control_Flujo\Venta2.0\obj\Debug\netcoreapp2.1\Venta2_0.dll
+C:\Users\Facu\source\repos\Estructuras_Control_Flujo\Venta2.0\obj\Debug\netcoreapp2.1\Venta2_0.pdb

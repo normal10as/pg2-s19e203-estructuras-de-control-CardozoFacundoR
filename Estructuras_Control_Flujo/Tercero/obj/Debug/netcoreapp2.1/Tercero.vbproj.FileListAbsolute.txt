@@ -1,0 +1,11 @@
+C:\Users\Facu\source\repos\Estructuras_Control_Flujo\Tercero\bin\Debug\netcoreapp2.1\Tercero.deps.json
+C:\Users\Facu\source\repos\Estructuras_Control_Flujo\Tercero\bin\Debug\netcoreapp2.1\Tercero.runtimeconfig.json
+C:\Users\Facu\source\repos\Estructuras_Control_Flujo\Tercero\bin\Debug\netcoreapp2.1\Tercero.runtimeconfig.dev.json
+C:\Users\Facu\source\repos\Estructuras_Control_Flujo\Tercero\bin\Debug\netcoreapp2.1\Tercero.dll
+C:\Users\Facu\source\repos\Estructuras_Control_Flujo\Tercero\bin\Debug\netcoreapp2.1\Tercero.pdb
+C:\Users\Facu\source\repos\Estructuras_Control_Flujo\Tercero\obj\Debug\netcoreapp2.1\Tercero.vbprojAssemblyReference.cache
+C:\Users\Facu\source\repos\Estructuras_Control_Flujo\Tercero\obj\Debug\netcoreapp2.1\Tercero.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\Estructuras_Control_Flujo\Tercero\obj\Debug\netcoreapp2.1\Tercero.AssemblyInfoInputs.cache
+C:\Users\Facu\source\repos\Estructuras_Control_Flujo\Tercero\obj\Debug\netcoreapp2.1\Tercero.AssemblyInfo.vb
+C:\Users\Facu\source\repos\Estructuras_Control_Flujo\Tercero\obj\Debug\netcoreapp2.1\Tercero.dll
+C:\Users\Facu\source\repos\Estructuras_Control_Flujo\Tercero\obj\Debug\netcoreapp2.1\Tercero.pdb
