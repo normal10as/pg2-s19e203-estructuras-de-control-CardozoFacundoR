@@ -1,0 +1,5 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/Estructuras_Control_Flujo/.vs/Estructuras_Control_Flujo/v16/Server/sqlite3/db.lock
