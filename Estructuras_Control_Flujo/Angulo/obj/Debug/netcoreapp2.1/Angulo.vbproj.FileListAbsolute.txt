@@ -1,0 +1,11 @@
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\Angulo\bin\Debug\netcoreapp2.1\Angulo.deps.json
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\Angulo\bin\Debug\netcoreapp2.1\Angulo.runtimeconfig.json
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\Angulo\bin\Debug\netcoreapp2.1\Angulo.runtimeconfig.dev.json
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\Angulo\bin\Debug\netcoreapp2.1\Angulo.dll
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\Angulo\bin\Debug\netcoreapp2.1\Angulo.pdb
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\Angulo\obj\Debug\netcoreapp2.1\Angulo.vbprojAssemblyReference.cache
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\Angulo\obj\Debug\netcoreapp2.1\Angulo.vbproj.CoreCompileInputs.cache
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\Angulo\obj\Debug\netcoreapp2.1\Angulo.AssemblyInfoInputs.cache
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\Angulo\obj\Debug\netcoreapp2.1\Angulo.AssemblyInfo.vb
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\Angulo\obj\Debug\netcoreapp2.1\Angulo.dll
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\Angulo\obj\Debug\netcoreapp2.1\Angulo.pdb

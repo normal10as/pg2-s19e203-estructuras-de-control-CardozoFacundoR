@@ -1,0 +1,11 @@
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\ConversionMedidas\bin\Debug\netcoreapp2.2\ConversionMedidas.deps.json
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\ConversionMedidas\bin\Debug\netcoreapp2.2\ConversionMedidas.runtimeconfig.json
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\ConversionMedidas\bin\Debug\netcoreapp2.2\ConversionMedidas.runtimeconfig.dev.json
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\ConversionMedidas\bin\Debug\netcoreapp2.2\ConversionMedidas.dll
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\ConversionMedidas\bin\Debug\netcoreapp2.2\ConversionMedidas.pdb
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\ConversionMedidas\obj\Debug\netcoreapp2.2\ConversionMedidas.vbprojAssemblyReference.cache
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\ConversionMedidas\obj\Debug\netcoreapp2.2\ConversionMedidas.vbproj.CoreCompileInputs.cache
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\ConversionMedidas\obj\Debug\netcoreapp2.2\ConversionMedidas.AssemblyInfoInputs.cache
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\ConversionMedidas\obj\Debug\netcoreapp2.2\ConversionMedidas.AssemblyInfo.vb
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\ConversionMedidas\obj\Debug\netcoreapp2.2\ConversionMedidas.dll
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\ConversionMedidas\obj\Debug\netcoreapp2.2\ConversionMedidas.pdb
