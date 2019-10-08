@@ -692,9 +692,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Facundo R Cardozo\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-CardozoFacundoR\\Estructuras_Control_Flujo\\Descuento\\Descuento.vbproj",
-      "projectName": "Descuento",
-      "projectPath": "C:\\Users\\Facundo R Cardozo\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-CardozoFacundoR\\Estructuras_Control_Flujo\\Descuento\\Descuento.vbproj",
+      "projectUniqueName": "C:\\Users\\Facundo R Cardozo\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-CardozoFacundoR\\Estructuras_Control_Flujo\\Descuento\\3.14_Descuento.vbproj",
+      "projectName": "3.14_Descuento",
+      "projectPath": "C:\\Users\\Facundo R Cardozo\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-CardozoFacundoR\\Estructuras_Control_Flujo\\Descuento\\3.14_Descuento.vbproj",
       "packagesPath": "C:\\Users\\Facundo R Cardozo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Facundo R Cardozo\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-CardozoFacundoR\\Estructuras_Control_Flujo\\Descuento\\obj\\",
       "projectStyle": "PackageReference",

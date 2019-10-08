@@ -692,9 +692,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Facundo R Cardozo\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-CardozoFacundoR\\Estructuras_Control_Flujo\\Primos\\Primos.vbproj",
-      "projectName": "Primos",
-      "projectPath": "C:\\Users\\Facundo R Cardozo\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-CardozoFacundoR\\Estructuras_Control_Flujo\\Primos\\Primos.vbproj",
+      "projectUniqueName": "C:\\Users\\Facundo R Cardozo\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-CardozoFacundoR\\Estructuras_Control_Flujo\\Primos\\3.13_Primos.vbproj",
+      "projectName": "3.13_Primos",
+      "projectPath": "C:\\Users\\Facundo R Cardozo\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-CardozoFacundoR\\Estructuras_Control_Flujo\\Primos\\3.13_Primos.vbproj",
       "packagesPath": "C:\\Users\\Facundo R Cardozo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Facundo R Cardozo\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-CardozoFacundoR\\Estructuras_Control_Flujo\\Primos\\obj\\",
       "projectStyle": "PackageReference",

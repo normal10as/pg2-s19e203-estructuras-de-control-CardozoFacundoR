@@ -8,3 +8,4 @@ C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-co
 C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\Descuento\obj\Debug\netcoreapp2.2\Descuento.AssemblyInfo.vb
 C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\Descuento\obj\Debug\netcoreapp2.2\Descuento.dll
 C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\Descuento\obj\Debug\netcoreapp2.2\Descuento.pdb
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\Descuento\obj\Debug\netcoreapp2.2\Descuento.vbprojAssemblyReference.cache

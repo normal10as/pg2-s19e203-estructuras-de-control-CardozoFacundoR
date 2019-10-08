@@ -9,10 +9,15 @@ Module Venta2_0
 	Sub Main(args As String())
 		Dim Cantidad, porcdescuento As UShort
 		Dim PrecioUnitario, SubTotal, MontoDescontado As Double
-		Console.Write("Ingrese la cantidad del producto: ")
-		Cantidad = Console.ReadLine
-		Console.Write("Ingrese precio del producto: ")
-		PrecioUnitario = Console.ReadLine
+		IngresoDatos(Cantidad, PrecioUnitario)
+		OperacionDescuento(Cantidad, porcdescuento, PrecioUnitario, SubTotal, MontoDescontado)
+		Console.WriteLine(" Subtotal: {0} ", SubTotal)
+		Console.WriteLine("Porcentaje de descuento: {0}% Monto Descontado: {1}", porcdescuento, MontoDescontado)
+		Console.WriteLine("Total: " & SubTotal - MontoDescontado)
+		Console.ReadKey()
+	End Sub
+
+	Private Sub OperacionDescuento(Cantidad As UShort, ByRef porcdescuento As UShort, PrecioUnitario As Double, ByRef SubTotal As Double, ByRef MontoDescontado As Double)
 		SubTotal = Cantidad * PrecioUnitario
 		Select Case Cantidad
 			Case 10 To 50
@@ -28,11 +33,13 @@ Module Venta2_0
 				porcdescuento = 0
 				Console.WriteLine("El producto no recibe descuento.")
 		End Select
+	End Sub
 
-		Console.WriteLine(" Subtotal: {0} ", SubTotal)
-		Console.WriteLine("Porcentaje de descuento: {0}% Monto Descontado: {1}", porcdescuento, MontoDescontado)
-		Console.WriteLine("Total: " & SubTotal - MontoDescontado)
-		Console.ReadKey()
+	Private Sub IngresoDatos(ByRef Cantidad As UShort, ByRef PrecioUnitario As Double)
+		Console.Write("Ingrese la cantidad del producto: ")
+		Cantidad = Console.ReadLine
+		Console.Write("Ingrese precio del producto: ")
+		PrecioUnitario = Console.ReadLine
 	End Sub
 End Module
 '3.6.Crear un proyecto y un módulo “Venta2.0”, para resolver el problema “Venta” (3.4) con CASE. 

@@ -694,9 +694,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Facundo R Cardozo\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-CardozoFacundoR\\Estructuras_Control_Flujo\\Venta\\Venta.vbproj",
-      "projectName": "Venta",
-      "projectPath": "C:\\Users\\Facundo R Cardozo\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-CardozoFacundoR\\Estructuras_Control_Flujo\\Venta\\Venta.vbproj",
+      "projectUniqueName": "C:\\Users\\Facundo R Cardozo\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-CardozoFacundoR\\Estructuras_Control_Flujo\\Venta\\3.04_Venta.vbproj",
+      "projectName": "3.04_Venta",
+      "projectPath": "C:\\Users\\Facundo R Cardozo\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-CardozoFacundoR\\Estructuras_Control_Flujo\\Venta\\3.04_Venta.vbproj",
       "packagesPath": "C:\\Users\\Facundo R Cardozo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Facundo R Cardozo\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-CardozoFacundoR\\Estructuras_Control_Flujo\\Venta\\obj\\",
       "projectStyle": "PackageReference",

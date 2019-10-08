@@ -1,5 +1,4 @@
 Imports System
-
 Module NombreMes
 	Enum Meses
 		Enero = 1
@@ -19,6 +18,10 @@ Module NombreMes
 		Dim MesIngresado As Byte
 		Console.Write("Ingrese un numero de mes: ")
 		MesIngresado = Console.ReadLine
+		SeleccionMes(MesIngresado)
+		Console.ReadKey()
+	End Sub
+	Private Sub SeleccionMes(MesIngresado As Byte)
 		Select Case MesIngresado
 			Case Meses.Enero
 				Console.WriteLine("EL numero de mes ingresado es: {0} y corresponde al mes de {1} ", MesIngresado, Meses.Enero)
@@ -47,8 +50,6 @@ Module NombreMes
 			Case Else
 				Console.WriteLine("El numero de mes ingresado es incorrecto")
 		End Select
-
-		Console.ReadKey()
 	End Sub
 End Module
 '3.5.Crear un proyecto y un módulo “NombreMes” para resolver con CASE. 

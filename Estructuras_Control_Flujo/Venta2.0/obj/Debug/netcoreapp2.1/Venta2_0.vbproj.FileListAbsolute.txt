@@ -8,3 +8,14 @@ C:\Users\Facu\source\repos\Estructuras_Control_Flujo\Venta2.0\obj\Debug\netcorea
 C:\Users\Facu\source\repos\Estructuras_Control_Flujo\Venta2.0\obj\Debug\netcoreapp2.1\Venta2_0.AssemblyInfo.vb
 C:\Users\Facu\source\repos\Estructuras_Control_Flujo\Venta2.0\obj\Debug\netcoreapp2.1\Venta2_0.dll
 C:\Users\Facu\source\repos\Estructuras_Control_Flujo\Venta2.0\obj\Debug\netcoreapp2.1\Venta2_0.pdb
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\Venta2.0\bin\Debug\netcoreapp2.1\Venta2_0.deps.json
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\Venta2.0\bin\Debug\netcoreapp2.1\Venta2_0.runtimeconfig.json
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\Venta2.0\bin\Debug\netcoreapp2.1\Venta2_0.runtimeconfig.dev.json
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\Venta2.0\bin\Debug\netcoreapp2.1\Venta2_0.dll
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\Venta2.0\bin\Debug\netcoreapp2.1\Venta2_0.pdb
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\Venta2.0\obj\Debug\netcoreapp2.1\Venta2_0.vbprojAssemblyReference.cache
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\Venta2.0\obj\Debug\netcoreapp2.1\Venta2_0.vbproj.CoreCompileInputs.cache
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\Venta2.0\obj\Debug\netcoreapp2.1\Venta2_0.AssemblyInfoInputs.cache
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\Venta2.0\obj\Debug\netcoreapp2.1\Venta2_0.AssemblyInfo.vb
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\Venta2.0\obj\Debug\netcoreapp2.1\Venta2_0.dll
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\Venta2.0\obj\Debug\netcoreapp2.1\Venta2_0.pdb

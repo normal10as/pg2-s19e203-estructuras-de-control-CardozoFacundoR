@@ -1,0 +1,10 @@
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\3.17_Operaciones2.0\bin\Debug\netcoreapp2.2\3.17_Operaciones2.0.deps.json
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\3.17_Operaciones2.0\bin\Debug\netcoreapp2.2\3.17_Operaciones2.0.runtimeconfig.json
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\3.17_Operaciones2.0\bin\Debug\netcoreapp2.2\3.17_Operaciones2.0.runtimeconfig.dev.json
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\3.17_Operaciones2.0\bin\Debug\netcoreapp2.2\3.17_Operaciones2.0.dll
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\3.17_Operaciones2.0\bin\Debug\netcoreapp2.2\3.17_Operaciones2.0.pdb
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\3.17_Operaciones2.0\obj\Debug\netcoreapp2.2\3.17_Operaciones2.0.vbproj.CoreCompileInputs.cache
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\3.17_Operaciones2.0\obj\Debug\netcoreapp2.2\3.17_Operaciones2.0.AssemblyInfoInputs.cache
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\3.17_Operaciones2.0\obj\Debug\netcoreapp2.2\3.17_Operaciones2.0.AssemblyInfo.vb
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\3.17_Operaciones2.0\obj\Debug\netcoreapp2.2\3.17_Operaciones2.0.dll
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\3.17_Operaciones2.0\obj\Debug\netcoreapp2.2\3.17_Operaciones2.0.pdb

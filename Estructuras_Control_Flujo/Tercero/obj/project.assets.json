@@ -694,9 +694,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Facundo R Cardozo\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-CardozoFacundoR\\Estructuras_Control_Flujo\\Tercero\\Tercero.vbproj",
-      "projectName": "Tercero",
-      "projectPath": "C:\\Users\\Facundo R Cardozo\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-CardozoFacundoR\\Estructuras_Control_Flujo\\Tercero\\Tercero.vbproj",
+      "projectUniqueName": "C:\\Users\\Facundo R Cardozo\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-CardozoFacundoR\\Estructuras_Control_Flujo\\Tercero\\3.03_Tercero.vbproj",
+      "projectName": "3.03_Tercero",
+      "projectPath": "C:\\Users\\Facundo R Cardozo\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-CardozoFacundoR\\Estructuras_Control_Flujo\\Tercero\\3.03_Tercero.vbproj",
       "packagesPath": "C:\\Users\\Facundo R Cardozo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Facundo R Cardozo\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-CardozoFacundoR\\Estructuras_Control_Flujo\\Tercero\\obj\\",
       "projectStyle": "PackageReference",

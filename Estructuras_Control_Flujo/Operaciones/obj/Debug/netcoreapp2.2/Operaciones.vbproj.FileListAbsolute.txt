@@ -1,0 +1,11 @@
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\Operaciones\obj\Debug\netcoreapp2.2\Operaciones.vbprojAssemblyReference.cache
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\Operaciones\obj\Debug\netcoreapp2.2\Operaciones.vbproj.CoreCompileInputs.cache
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\Operaciones\obj\Debug\netcoreapp2.2\Operaciones.AssemblyInfoInputs.cache
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\Operaciones\obj\Debug\netcoreapp2.2\Operaciones.AssemblyInfo.vb
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\Operaciones\bin\Debug\netcoreapp2.2\Operaciones.deps.json
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\Operaciones\bin\Debug\netcoreapp2.2\Operaciones.runtimeconfig.json
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\Operaciones\bin\Debug\netcoreapp2.2\Operaciones.runtimeconfig.dev.json
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\Operaciones\bin\Debug\netcoreapp2.2\Operaciones.dll
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\Operaciones\bin\Debug\netcoreapp2.2\Operaciones.pdb
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\Operaciones\obj\Debug\netcoreapp2.2\Operaciones.dll
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\Operaciones\obj\Debug\netcoreapp2.2\Operaciones.pdb

@@ -1,15 +1,49 @@
 Imports System
 
 Module Descuento
-    Sub Main(args As String())
-        Dim cantidad, PrecioUnitario As UShort
-        Dim descuento, subtotal, MontoDescontado, Total As Decimal
-        subtotal = cantidad * PrecioUnitario
-        MontoDescontado = subtotal * descuento / 100
-        Total = subtotal - MontoDescontado
+	Sub Main(args As String())
+		Dim cantidad, PrecioUnitario As UShort
+		Dim descuento, subtotal, MontoDescontado, Total As Decimal
+		SeleccionIngreso(cantidad, PrecioUnitario, descuento, subtotal, MontoDescontado, Total)
+		Console.ReadKey()
+	End Sub
 
+	Private Sub SeleccionIngreso(ByRef cantidad As UShort, ByRef PrecioUnitario As UShort, ByRef descuento As Decimal, ByRef subtotal As Decimal, ByRef MontoDescontado As Decimal, ByRef Total As Decimal)
+		Do
+			Console.Write("Ingrear Cantidad: ")
+			cantidad = Console.ReadLine
+			If cantidad <> 0 Then
+				Console.Write("Ingrese precio Unitario: ")
+				PrecioUnitario = Console.ReadLine
+			End If
+			If cantidad >= 10 And cantidad <= 50 Then
+				descuento = 5
+			ElseIf cantidad > 50 And cantidad <= 250 Then
+				descuento = 10
+			ElseIf cantidad > 250 Then
+				descuento = 20
+			End If
+			CaclculosTotales(cantidad, PrecioUnitario, descuento, subtotal, MontoDescontado, Total)
+			If cantidad > 0 Then
+				Informes(descuento, subtotal, MontoDescontado, Total)
+			Else
+				Console.WriteLine("Exit")
+			End If
+		Loop Until cantidad = 0
+	End Sub
 
-    End Sub
+	Private Sub Informes(descuento As Decimal, subtotal As Decimal, MontoDescontado As Decimal, Total As Decimal)
+		Console.WriteLine("Subtotal: " & subtotal)
+		Console.WriteLine("Descuento {0}% , {1}$ ", descuento, MontoDescontado)
+		Console.WriteLine("Total: " & Total & vbCrLf)
+	End Sub
+
+	Private Sub CaclculosTotales(cantidad As UShort, PrecioUnitario As UShort, descuento As Decimal, ByRef subtotal As Decimal, ByRef MontoDescontado As Decimal, ByRef Total As Decimal)
+
+		subtotal = cantidad * PrecioUnitario
+		MontoDescontado = subtotal * descuento / 100
+		Total = subtotal - MontoDescontado
+	End Sub
 End Module
 
 

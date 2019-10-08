@@ -1,0 +1,10 @@
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\3.18_ValidarEnteros\bin\Debug\netcoreapp2.2\3.18_ValidarEnteros.deps.json
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\3.18_ValidarEnteros\bin\Debug\netcoreapp2.2\3.18_ValidarEnteros.runtimeconfig.json
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\3.18_ValidarEnteros\bin\Debug\netcoreapp2.2\3.18_ValidarEnteros.runtimeconfig.dev.json
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\3.18_ValidarEnteros\bin\Debug\netcoreapp2.2\3.18_ValidarEnteros.dll
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\3.18_ValidarEnteros\bin\Debug\netcoreapp2.2\3.18_ValidarEnteros.pdb
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\3.18_ValidarEnteros\obj\Debug\netcoreapp2.2\3.18_ValidarEnteros.vbproj.CoreCompileInputs.cache
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\3.18_ValidarEnteros\obj\Debug\netcoreapp2.2\3.18_ValidarEnteros.AssemblyInfoInputs.cache
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\3.18_ValidarEnteros\obj\Debug\netcoreapp2.2\3.18_ValidarEnteros.AssemblyInfo.vb
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\3.18_ValidarEnteros\obj\Debug\netcoreapp2.2\3.18_ValidarEnteros.dll
+C:\Users\Facundo R Cardozo\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-CardozoFacundoR\Estructuras_Control_Flujo\3.18_ValidarEnteros\obj\Debug\netcoreapp2.2\3.18_ValidarEnteros.pdb
